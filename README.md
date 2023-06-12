@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaullak354&label=Profile%20views&color=0e75b6&style=flat" alt="sanaullak354" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sanaulla khan" target="blank"><img src="https://img.shields.io/twitter/follow/sanaulla khan?logo=twitter&style=for-the-badge" alt="sanaulla khan" /></a> </p>
-
 - 🌱 I’m currently learning **Machine learning,Statistics**
 
 - 📫 How to reach me **sanaulla354kp@gmail.com**
