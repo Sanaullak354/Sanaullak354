@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaullak354&label=Profile%20views&color=0e75b6&style=flat" alt="sanaullak354" /> </p>
 
-- 🌱 I’m currently learning **Machine learning,Statistics**
+- 🌱 I’m currently learning **Machine learning,Statistics.**
 
 - 📫 How to reach me **sanaulla354kp@gmail.com**
 
