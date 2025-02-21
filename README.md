@@ -36,8 +36,8 @@
     </a>    
     <!-- GitHub -->
 <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50"/>
-</a>   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" alt="github" width="50" height="50"/>
+</a>
     <!-- Power BI -->
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="50" height="50"/>
