@@ -1,3 +1,6 @@
+ <td align="center">
+     <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)" width="250px">
+    </td>
 # 👋 Hey there! I'm Sanaulla Khan  
 
 ## 🚀 AI & Data Science Enthusiast | Problem Solver | Event Organizer  
