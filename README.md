@@ -26,19 +26,28 @@
      <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="250px">
     </td>
   </tr>
-</table>
+ <tr>
+    <td>
 Beyond tech, I enjoy organizing hackathons, playing basketball, and envisioning my future café venture ☕. Always eager to learn, explore, and create! 🚀
-
+   </td>
+  </tr>
+<tr>
+    <td>
 ## 🎯 Current Focus
 - Exploring **advanced machine learning algorithms** and their real-world applications
 - Developing skills in **data analytics and visualization**
 - Building a strong foundation in **neural networks and deep learning**
-
+   </td>
+  </tr>
+ <tr>
+    <td>
 ## 🌱 I'm Currently
 - Working on **personal projects in Agentic AI and LLMs**
 - Learning **advanced statistical methods** for data analysis
 - knowing about **Big Data**
-  
+     </td>
+  </tr>
+  </table>
 ## 🛠️ Technical Arsenal
 
 ### 💻 Programming Languages
