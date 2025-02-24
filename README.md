@@ -15,22 +15,21 @@
       <p>
      An ambitious AI & Data Science student with a passion for solving real-world problems through machine learning, deep learning, and data analytics. I thrive on transforming complex data into actionable insights and building innovative AI-driven solutions 
       </p>
-      <ul>
-        <li> 🎓 Pursuing <b>BE in AI & DS</b> at Methodist College of Engineering & Technology </li>
-        <li> 🧠 Passionate about <b>Machine Learning, Deep Learning, and Data Science</b> </li>
-        <li> 🎤 <b>Hackathon Coordinator</b> & Event Organizer – Bringing innovation to life </li>
-        <li> ☕ Aspiring <b>café owner</b> with a love for creativity and business </li>
-       <li> 🎯 Current Focus </li>
-<li>- Exploring **advanced machine learning algorithms** and their real-world applications</li>
-<li>- Developing skills in **data analytics and visualization**</li>
-<li>- Building a strong foundation in **neural networks and deep learning**</li>
+      <p>🎓 Pursuing <b>BE in AI & DS</b> at Methodist College of Engineering & Technology 
+         🧠 Passionate about <b>Machine Learning, Deep Learning, and Data Science</b> 
+        🎤 <b>Hackathon Coordinator</b> & Event Organizer – Bringing innovation to life 
+        ☕ Aspiring <b>café owner</b> with a love for creativity and business
+        🎯 Current Focus 
+Exploring **advanced machine learning algorithms** and their real-world applications
+Developing skills in **data analytics and visualization**
+ Building a strong foundation in **neural networks and deep learning**
    
-<li>## 🌱 I'm Currently</li>
-<li>- Working on **personal projects in Agentic AI and LLMs**</li>
-<li>- Learning **advanced statistical methods** for data analysis</li>
-<li>- knowing about **Big Data**</li>
-      </ul>
-    </td>
+ 🌱 I'm Currently
+Working on **personal projects in Agentic AI and LLMs**
+ Learning **advanced statistical methods** for data analysis
+ knowing about **Big Data**
+      <</p>
+             </td>
     <td align="center">
      <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="250px">
     </td>
