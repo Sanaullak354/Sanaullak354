@@ -10,7 +10,9 @@
   <tr>
     <td>
       <p>
-      Hello! I'm <b>Sanaulla Khan</b>, a passionate AI & Data Science student. My journey in technology is driven by a passion for <b>solving complex problems with AI</b>, turning data into actionable insights, and building innovative solutions that make a difference.  
+      An ambitious AI & Data Science student with a passion for solving real-world problems through machine learning, deep learning, and data analytics. I thrive on transforming complex data into actionable insights and building innovative AI-driven solutions.
+
+Beyond tech, I enjoy organizing hackathons, playing basketball, and envisioning my future café venture ☕. Always eager to learn, explore, and create! 🚀
       </p>
       <ul>
         <li> 🎓 Pursuing <b>BE in AI & DS</b> at Methodist College of Engineering & Technology </li>
