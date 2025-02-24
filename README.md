@@ -53,11 +53,12 @@ Beyond tech, I enjoy organizing hackathons, playing basketball, and envisioning 
 
 ### 📦 Databases 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📈 Visualization Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 🤝 Let's Connect & Collaborate!
 I'm always interested in connecting with fellow developers, data scientists, and tech enthusiasts. Feel free to reach out for collaborations or just a chat about **AI & Technology**!
