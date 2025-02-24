@@ -13,7 +13,7 @@
 
 Hello! I'm **Sanaulla Khan**, an ambitious AI & Data Science student. My journey in technology is driven by a passion for **solving complex problems with AI**, turning data into actionable insights, and building innovative solutions that make a difference.  
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="Coding GIF">  
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Coding GIF">  
 
 ### 🎯 Current Focus  
 - 🚀 Exploring **advanced machine learning algorithms** and their applications  
