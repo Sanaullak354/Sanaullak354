@@ -4,7 +4,7 @@
     
 ### 👋 Hey there! I'm Sanaulla Khan
 
-## 🚀 AI & Data Science Enthusiast | Problem Solver | Event Organizer  
+## Insights That Drive Innovation 
 
 ## 📌 About Me  
 
