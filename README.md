@@ -11,13 +11,12 @@
 ## 🎯 Current Focus
 - Exploring **advanced machine learning algorithms** and their real-world applications
 - Developing skills in **data analytics and visualization**
-- Contributing to **open-source AI projects**
 - Building a strong foundation in **neural networks and deep learning**
 
 ## 🌱 I'm Currently
 - Working on **personal projects in Agentic AI and LLMs**
 - Learning **advanced statistical methods** for data analysis
-- Collaborating with peers on **innovative AI solutions**
+- 
 ## 🛠️ Technical Arsenal
 
 ### 💻 Programming Languages
@@ -72,8 +71,6 @@
 
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaullak354&" alt="sanaullak354" width="460" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanaullak354&show_icons=true&locale=en" alt="sanaullak354" width="455" /></p>
 
 
 
