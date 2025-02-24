@@ -3,11 +3,10 @@
 ## 🚀 AI & Data Science Enthusiast | Problem Solver | Event Organizer  
 
 ### **About Me**  
-🎓 Pursuing **BE in AI & DS** at Methodist College of Engineering & Technology  
-🧠 Passionate about **Machine Learning, Deep Learning, and Data Science**  
-🏀 Basketball player who loves the thrill of the game  
-🎤 **Hackathon Coordinator & Event Organizer** – bringing innovation to life    
-🏆 Always eager to **explore, build, and learn something new!** 
+
+An ambitious AI & Data Science student with a passion for solving real-world problems through machine learning, deep learning, and data analytics. I thrive on transforming complex data into actionable insights and building innovative AI-driven solutions.
+
+Beyond tech, I enjoy organizing hackathons, playing basketball, and envisioning my future café venture ☕. Always eager to learn, explore, and create! 🚀
 ## 🎯 Current Focus
 - Exploring **advanced machine learning algorithms** and their real-world applications
 - Developing skills in **data analytics and visualization**
