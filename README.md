@@ -10,8 +10,20 @@
   <tr>
     <td>
       <p>
-      An ambitious AI & Data Science student with a passion for solving real-world problems through machine learning, deep learning, and data analytics. I thrive on transforming complex data into actionable insights and building innovative AI-driven solutions.
-
+     An ambitious AI & Data Science student with a passion for solving real-world problems through machine learning, deep learning, and data analytics. I thrive on transforming complex data into actionable insights and building innovative AI-driven solutions 
+      </p>
+      <ul>
+        <li> 🎓 Pursuing <b>BE in AI & DS</b> at Methodist College of Engineering & Technology </li>
+        <li> 🧠 Passionate about <b>Machine Learning, Deep Learning, and Data Science</b> </li>
+        <li> 🎤 <b>Hackathon Coordinator</b> & Event Organizer – Bringing innovation to life </li>
+        <li> ☕ Aspiring <b>café owner</b> with a love for creativity and business </li>
+      </ul>
+    </td>
+    <td align="center">
+     <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250px">
+    </td>
+  </tr>
+</table>
 Beyond tech, I enjoy organizing hackathons, playing basketball, and envisioning my future café venture ☕. Always eager to learn, explore, and create! 🚀
 
 ## 🎯 Current Focus
