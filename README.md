@@ -1,13 +1,13 @@
-<h1 align="center">Hi! 👋, I'm Sanaulla Khan</h1>
-<h2 align="center">A Passionate Coder from India</h2>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZyOL7w9vqQkqmQtMfkXyBGAMrrpfy6S94MA&usqp=CAU">
+# 👋 Hey there! I'm Sanaulla Khan  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaullak354&label=Profile%20views&color=0e75b6&style=flat" alt="sanaullak354" /> </p>
+## 🚀 AI & Data Science Enthusiast | Problem Solver | Event Organizer  
 
-- 🌱 I’m currently learning **Big Data**
-
-- 📫 How to reach me **sanaulla94k@gmail.com**
-
+### **About Me**  
+🎓 Pursuing **BE in AI & DS** at Methodist College of Engineering & Technology  
+🧠 Passionate about **Machine Learning, Deep Learning, and Data Science**  
+🏀 Basketball player who loves the thrill of the game  
+🎤 **Hackathon Coordinator & Event Organizer** – bringing innovation to life    
+🏆 Always eager to **explore, build, and learn something new!** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanaulla khan pailvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanaulla khan pailvi" height="40" width="50" /></a>
