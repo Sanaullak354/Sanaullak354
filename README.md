@@ -35,11 +35,11 @@ Hello! I'm **Sanaulla Khan**, an ambitious AI & Data Science student. My journey
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon%20rds&logoColor=white)
 
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning & DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
 
 ### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
