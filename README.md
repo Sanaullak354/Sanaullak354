@@ -1,12 +1,10 @@
  <td align="right">
      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350px">
     </td>
-👋 Hey there! I'm Sanaulla Khan
+    
+### 👋 Hey there! I'm Sanaulla Khan
 
 ## 🚀 AI & Data Science Enthusiast | Problem Solver | Event Organizer  
-
-### **About Me**  
-
 
 ## 📌 About Me  
 
@@ -24,9 +22,6 @@ Hello! I'm **Sanaulla Khan**, an ambitious AI & Data Science student. My journey
 - 🔬 Working on **Agentic AI and LLMs** projects  
 - 📚 Learning **advanced statistical methods for data analysis**  
 - 🤝 Collaborating with peers on **innovative AI solutions**  
-
----
-
 
 ## 🛠️ Technical Arsenal
 
