@@ -28,27 +28,7 @@ Hello! I'm **Sanaulla Khan**, an ambitious AI & Data Science student. My journey
 
 ---
 
-🔗 **Let's Connect!**  
-💼 [LinkedIn](https://linkedin.com/in/your-profile) | 📝 [Medium](https://medium.com/@your-profile) | 📸 [Instagram](https://instagram.com/your-profile) | 📫 **Email: your-email@example.com**
 
-             </td>
-    <td align="center">
-     <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="250px">
-    </td>
-  </tr>
- </table>
-Beyond tech, I enjoy organizing hackathons, playing basketball, and envisioning my future café venture ☕. Always eager to learn, explore, and create! 🚀
-   
-## 🎯 Current Focus
-- Exploring **advanced machine learning algorithms** and their real-world applications
-- Developing skills in **data analytics and visualization**
-- Building a strong foundation in **neural networks and deep learning**
-   
-## 🌱 I'm Currently
-- Working on **personal projects in Agentic AI and LLMs**
-- Learning **advanced statistical methods** for data analysis
-- knowing about **Big Data**
-   
 ## 🛠️ Technical Arsenal
 
 ### 💻 Programming Languages
