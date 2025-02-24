@@ -20,34 +20,34 @@
         <li> 🧠 Passionate about <b>Machine Learning, Deep Learning, and Data Science</b> </li>
         <li> 🎤 <b>Hackathon Coordinator</b> & Event Organizer – Bringing innovation to life </li>
         <li> ☕ Aspiring <b>café owner</b> with a love for creativity and business </li>
+       <li> 🎯 Current Focus </li>
+<li>- Exploring **advanced machine learning algorithms** and their real-world applications</li>
+<li>- Developing skills in **data analytics and visualization**</li>
+<li>- Building a strong foundation in **neural networks and deep learning**</li>
+   
+<li>## 🌱 I'm Currently</li>
+<li>- Working on **personal projects in Agentic AI and LLMs**</li>
+<li>- Learning **advanced statistical methods** for data analysis</li>
+<li>- knowing about **Big Data**</li>
       </ul>
     </td>
     <td align="center">
      <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="250px">
     </td>
   </tr>
- <tr>
-    <td>
+ </table>
 Beyond tech, I enjoy organizing hackathons, playing basketball, and envisioning my future café venture ☕. Always eager to learn, explore, and create! 🚀
-   </td>
-  </tr>
-<tr>
-    <td>
+   
 ## 🎯 Current Focus
 - Exploring **advanced machine learning algorithms** and their real-world applications
 - Developing skills in **data analytics and visualization**
 - Building a strong foundation in **neural networks and deep learning**
-   </td>
-  </tr>
- <tr>
-    <td>
+   
 ## 🌱 I'm Currently
 - Working on **personal projects in Agentic AI and LLMs**
 - Learning **advanced statistical methods** for data analysis
 - knowing about **Big Data**
-     </td>
-  </tr>
-  </table>
+   
 ## 🛠️ Technical Arsenal
 
 ### 💻 Programming Languages
