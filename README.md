@@ -9,26 +9,28 @@
 
 
 ## 📌 About Me  
-<table>
-  <tr>
-    <td>
-      <p>
-     An ambitious AI & Data Science student with a passion for solving real-world problems through machine learning, deep learning, and data analytics. I thrive on transforming complex data into actionable insights and building innovative AI-driven solutions 
-      </p>
-      <p>🎓 Pursuing <b>BE in AI & DS</b> at Methodist College of Engineering & Technology 
-         🧠 Passionate about <b>Machine Learning, Deep Learning, and Data Science</b> 
-        🎤 <b>Hackathon Coordinator</b> & Event Organizer – Bringing innovation to life 
-        ☕ Aspiring <b>café owner</b> with a love for creativity and business
-        🎯 Current Focus 
-Exploring **advanced machine learning algorithms** and their real-world applications
-Developing skills in **data analytics and visualization**
- Building a strong foundation in **neural networks and deep learning**
-   
- 🌱 I'm Currently
-Working on **personal projects in Agentic AI and LLMs**
- Learning **advanced statistical methods** for data analysis
- knowing about **Big Data**
-      <</p>
+## 👨‍💻 About Me  
+
+Hello! I'm **Sanaulla Khan**, an ambitious AI & Data Science student. My journey in technology is driven by a passion for **solving complex problems with AI**, turning data into actionable insights, and building innovative solutions that make a difference.  
+
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF">  
+
+### 🎯 Current Focus  
+- 🚀 Exploring **advanced machine learning algorithms** and their applications  
+- 📊 Developing **data analytics & visualization** skills  
+- 💡 Contributing to **open-source AI projects**  
+- 🧠 Strengthening **neural networks & deep learning** foundations  
+
+### 🌱 I'm Currently  
+- 🔬 Working on **Agentic AI and LLMs** projects  
+- 📚 Learning **advanced statistical methods for data analysis**  
+- 🤝 Collaborating with peers on **innovative AI solutions**  
+
+---
+
+🔗 **Let's Connect!**  
+💼 [LinkedIn](https://linkedin.com/in/your-profile) | 📝 [Medium](https://medium.com/@your-profile) | 📸 [Instagram](https://instagram.com/your-profile) | 📫 **Email: your-email@example.com**
+
              </td>
     <td align="center">
      <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="250px">
