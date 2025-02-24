@@ -8,6 +8,19 @@
 🏀 Basketball player who loves the thrill of the game  
 🎤 **Hackathon Coordinator & Event Organizer** – bringing innovation to life    
 🏆 Always eager to **explore, build, and learn something new!** 
+## 🎯 Current Focus
+- Exploring **advanced machine learning algorithms** and their real-world applications
+- Developing skills in **data analytics and visualization**
+- Contributing to **open-source AI projects**
+- Building a strong foundation in **neural networks and deep learning**
+
+## 🌱 I'm Currently
+- Working on **personal projects in Agentic AI and LLMs**
+- Learning **advanced statistical methods** for data analysis
+- Collaborating with peers on **innovative AI solutions**
+## 🛠️ Technical Arsenal
+### 💻 Programming Languages
+Python • R • C++ • Java  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanaulla khan pailvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanaulla khan pailvi" height="40" width="50" /></a>
