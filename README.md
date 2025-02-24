@@ -65,7 +65,7 @@ Hello! I'm **Sanaulla Khan**, an ambitious AI & Data Science student. My journey
 I'm always interested in connecting with fellow developers, data scientists, and tech enthusiasts. Feel free to reach out for collaborations or just a chat about **AI & Technology**!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanaulla khan pailvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanaulla khan pailvi" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/sanaulla-khan-983473239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanaulla khan pailvi" height="40" width="50" /></a>
 </p>
 
 
