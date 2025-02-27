@@ -47,10 +47,6 @@ Hello! I'm **Sanaulla Khan**, an ambitious AI & Data Science student. My journey
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 
-### 🧠 Deep Learning & NLP
-![Transformers](https://img.shields.io/badge/Transformers-0088CC?style=for-the-badge&logo=huggingface&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
 ### 📦 Databases 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
