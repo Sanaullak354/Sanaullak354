@@ -1,9 +1,8 @@
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350px">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700px">
 </p>
-
 <h3 align="center">Aspiring Data Professional | Data Engineering & Analytics | Cloud Data Solutions</h3>
 
 <p align="center"><i>Building robust data pipelines and delivering actionable insights!</i></p>
